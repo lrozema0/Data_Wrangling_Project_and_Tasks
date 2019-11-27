@@ -6,7 +6,8 @@ The purpose of this repository is to display the code used for all graded projec
 ### Project 1
 The purpose of the first project was to display the utility of SQL when working with databases. This was shown through renaming and creation of columns, and query a table based on conditional criteria. 
 ### Project 2
-
+The purpose of the second project was to display the interface between SQL and R through the use of ODBC connections and specialized packages such as sqldf. In addition, date data was modified using the lubridate package and used to make simple graphics.
 ### Midterm Project
-
+The purpose of the midterm project was to clean a dataset from NHANES. To do this multiple techniques were used including mean/median imputation for conitnuous missing values and one hot encoding factor missing values.  
 ### Final Project
+The purpose of the final project was to display all of the SQL and R tools that were learned over the term. This includes, but is not limited to: SQL joins, calling in SQL tables to R, and using DPLYR and Lubridate functions. 
